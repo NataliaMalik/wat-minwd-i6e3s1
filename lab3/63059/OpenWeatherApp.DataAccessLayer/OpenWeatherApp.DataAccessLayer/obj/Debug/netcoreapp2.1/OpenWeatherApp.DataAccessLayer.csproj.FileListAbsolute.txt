@@ -1,0 +1,66 @@
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.deps.json
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.runtimeconfig.json
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.dll
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorAssemblyInfo.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorAssemblyInfo.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.TagHelpers.input.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.TagHelpers.output.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorCoreGenerate.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorTargetAssemblyInfo.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorTargetAssemblyInfo.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.pdb
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.Views.dll
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.Views.pdb
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.Views.pdb
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.dll
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.pdb
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.csproj.CopyComplete
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\OpenWeatherMapMvc\Index.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.deps.json
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.runtimeconfig.json
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.dll
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.pdb
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.Views.dll
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\bin\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.Views.pdb
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorAssemblyInfo.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorAssemblyInfo.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.TagHelpers.input.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.TagHelpers.output.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorCoreGenerate.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\OpenWeatherMapMvc\Index.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorTargetAssemblyInfo.cache
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.RazorTargetAssemblyInfo.cs
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.Views.pdb
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.dll
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.pdb
+C:\Users\Natalia\Desktop\wat-minwd2\wat-minwd-i6e3s1\lab3\63059\OpenWeatherApp.DataAccessLayer\OpenWeatherApp.DataAccessLayer\obj\Debug\netcoreapp2.1\OpenWeatherApp.DataAccessLayer.csproj.CopyComplete
