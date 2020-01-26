@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Natalia\\Desktop\\wat-minwd2\\wat-minwd-i6e3s1\\lab2\\63059\\WikiSlownikScraper2\\WikiSlownikScraper2\\WikiSlownikScraper2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Natalia\\Desktop\\wat-minwd2\\wat-minwd-i6e3s1\\lab2\\63059\\WikiSlownikScraper2\\WikiSlownikScraper2\\WikiSlownikScraper2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Natalia\\Desktop\\wat-minwd2\\wat-minwd-i6e3s1\\lab2\\63059\\WikiSlownikScraper2\\WikiSlownikScraper2\\WikiSlownikScraper2.csproj",
+        "projectName": "WikiSlownikScraper2",
+        "projectPath": "C:\\Users\\Natalia\\Desktop\\wat-minwd2\\wat-minwd-i6e3s1\\lab2\\63059\\WikiSlownikScraper2\\WikiSlownikScraper2\\WikiSlownikScraper2.csproj",
+        "packagesPath": "C:\\Users\\Natalia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natalia\\Desktop\\wat-minwd2\\wat-minwd-i6e3s1\\lab2\\63059\\WikiSlownikScraper2\\WikiSlownikScraper2\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Natalia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.18, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

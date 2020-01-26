@@ -1,0 +1,11 @@
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\bin\Debug\netcoreapp2.1\WikiSlownikScraper2.deps.json
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\bin\Debug\netcoreapp2.1\WikiSlownikScraper2.runtimeconfig.json
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\bin\Debug\netcoreapp2.1\WikiSlownikScraper2.runtimeconfig.dev.json
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\bin\Debug\netcoreapp2.1\WikiSlownikScraper2.dll
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\obj\Debug\netcoreapp2.1\WikiSlownikScraper2.csprojAssemblyReference.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\obj\Debug\netcoreapp2.1\WikiSlownikScraper2.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\obj\Debug\netcoreapp2.1\WikiSlownikScraper2.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\obj\Debug\netcoreapp2.1\WikiSlownikScraper2.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\bin\Debug\netcoreapp2.1\WikiSlownikScraper2.pdb
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\obj\Debug\netcoreapp2.1\WikiSlownikScraper2.dll
+C:\Users\Natalia\Desktop\SEMESTR 7\MINWD\lab2\63059\WikiSlownikScraper2\WikiSlownikScraper2\obj\Debug\netcoreapp2.1\WikiSlownikScraper2.pdb
